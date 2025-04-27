@@ -17,7 +17,7 @@ Yohatech Official Website is a modern, responsive web platform developed to stre
 
 ## Technologies Used
 
-- **Frontend**: HTML, CSS, JavaScript
+- **Frontend**: HTML, CSS, JavaScript, Backend :PHP
 
 ## Getting Started
 
