@@ -1,9 +1,9 @@
 # Yohatech Official Website
 
-[![GitHub stars](https://img.shields.io/github/stars/MARYEEM/yohatech-website.svg?style=social&label=Stars)](https://github.com/MARYEEM/yohatech-website)
-[![GitHub forks](https://img.shields.io/github/forks/MARYEEM/yohatech-website.svg?style=social&label=Fork)](https://github.com/MARYEM/yohatech-)
+[![GitHub stars](https://img.shields.io/github/stars/MARYEEM/yohatech-website.svg?style=social&label=Stars)](https://github.com/MARYEEMM/YohaTech-Website.git)
+[![GitHub forks](https://img.shields.io/github/forks/MARYEEM/yohatech-website.svg?style=social&label=Fork)](https://github.com/MARYEEMM/YohaTech-Website.git)
 
-website## Introduction
+## Introduction
 
 Yohatech Official Website is a modern, responsive web platform developed to strengthen Yohatech's online presence, showcase its expertise in IoT, AI, robotics, and more, and facilitate contact with potential clients.
 
@@ -31,4 +31,4 @@ Ensure you have the following installed:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/MARYEEM/yohatech-website.git
+   git clone https://github.com/MARYEEMM/YohaTech-Website.git
